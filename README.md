@@ -50,7 +50,3 @@ python manage.py runserver
 
 * 文章内容
 ![文章内容](./doc/image/image3.png)
-
-## 历史版本
-
-* [黑白简约版](https://github.com/jhao104/django-blog/tree/v1.0)
